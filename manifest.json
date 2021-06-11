@@ -1,6 +1,6 @@
 {
   "name": "Vue Simple PWA",
-  "short_name": "VSPWA",
+  "short_name": "2345游戏中心",
   "icons": [
     {
       "src": "./src/assets/img/icon-48.png",
