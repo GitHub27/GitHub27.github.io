@@ -13,7 +13,7 @@
           </button>
         </div>
         <div class="col-xs-6 PrimaryNav-logo_container text-center">
-          <h1 class="PrimaryNav-logo"><a v-link="{ path: '/' }">Simple PWA</a></h1>
+          <h1 class="PrimaryNav-logo"><a v-link="{ path: '/' }">2345游戏中心</a></h1>
         </div>
         <div class="col-xs-3 PrimaryNav-button_search_container text-center">
           <button v-if="!onPostItem" class="btn PrimaryNav-button_search PrimaryNav-button" @click="toggleSearchbar">
